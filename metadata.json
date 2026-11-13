@@ -1,0 +1,6 @@
+{
+  "name": "VoiceForm",
+  "description": "Voice-to-structured-JSON platform that turns mixed Hindi/English voice notes into validated schema records with per-field confidence scoring and ambiguity follow-up.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
